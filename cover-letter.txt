@@ -1,0 +1,9 @@
+Dear Recruiter,
+
+After going through the job description, I am aware that Yapstone is looking for individuals who are interesting in building quality services and solutions. An important element to building softwares is scalability and performance, and I hope my skills and experiences come to use at Yapstone. 
+I am a Graduate student with experience in Teaching, Research and Industrial experience. I see that the current job description requires an individual to have excellent Java or C/C++ skills. Some of the academic and industrial projects that I have created have helped me to gain mastery in these languages. I have also worked on creating services viz. Simple DynamoDB that is scalable and efficient. Moreover, I worked as an intern at Zappos.com, I worked on a web application which was developed in Phoenix Webframework. Despite Phoenix being a new technology I was still able to find out how MVC worked and how to use the framework to make large scale data migrations. 
+Currently, I am a graduate teaching assistant for the course Data Intensive Computing. Here I learnt about Big Data technologies viz. Hadoop Framework, I was also able to conduct sessions, write tutorials and work on projects. I was delighted to know that experience in Hadoop is a big plus.
+I hope I was able to convince you that I am a correct fit for this role. I would be glad if I could get a call regarding this role. 
+
+Thanking You,
+Srinivasan Rajappa      
